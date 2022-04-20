@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @lzzyPizzy
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate with fireship (imagine)
+Hi I am IzzyPizzy and I am currently learning python. Web development is interesting.
